@@ -1,4 +1,4 @@
-#include "TiMP.h"
+#include "TIMP.h"
 
 Cipher::Cipher(std::wstring & ws_key)
 {
